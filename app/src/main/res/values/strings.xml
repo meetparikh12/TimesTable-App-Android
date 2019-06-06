@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">Multiplication Table</string>
+    <string name="app_name">TimesTable App</string>
     <string name="tables">Tables from 1 to 25:</string>
 </resources>
